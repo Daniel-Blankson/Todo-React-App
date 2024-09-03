@@ -1,6 +1,6 @@
 # Todo List App
 
-This is a simple Todo List application built with **React**, **Vite**, and **Tailwind CSS**. The project serves as a practical exercise in state management, component architecture, and integrating a utility-first CSS framework. It is particularly suited for beginners looking to solidify their understanding of React development.
+This is a simple Todo List application built with **React**, **Vite**, and **Tailwind CSS**. The project serves as a practical exercise in state management, component architecture, and integrating a utility-first CSS framework.
 
 ## Features
 
